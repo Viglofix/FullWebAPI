@@ -1,0 +1,14 @@
+D:\Programmig\JQuery\FullWebAPI\DataBase\bin\Debug\net7.0\DataBase.deps.json
+D:\Programmig\JQuery\FullWebAPI\DataBase\bin\Debug\net7.0\DataBase.runtimeconfig.json
+D:\Programmig\JQuery\FullWebAPI\DataBase\bin\Debug\net7.0\DataBase.dll
+D:\Programmig\JQuery\FullWebAPI\DataBase\bin\Debug\net7.0\DataBase.pdb
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.csproj.AssemblyReference.cache
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.AssemblyInfoInputs.cache
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.AssemblyInfo.cs
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.csproj.CoreCompileInputs.cache
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.dll
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\refint\DataBase.dll
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.pdb
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\DataBase.genruntimeconfig.cache
+D:\Programmig\JQuery\FullWebAPI\DataBase\obj\Debug\net7.0\ref\DataBase.dll
